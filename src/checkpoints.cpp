@@ -39,7 +39,9 @@ namespace Checkpoints
         (  10, uint256("0xa2ec80c88764ed6163591856abd23a1863901d73fe7d11c0e43444ed1e99cf99") )
         (  20, uint256("0xd2391580e62bd994c6ad9f30bcaa6abe7112b83e9a1e135c120dcbb022479468") )
         (  60, uint256("0x60ddc52fc6ee720b54d088ecb1aa3189509a0847a27f502b089d001469ec94a8") )
-        (  120, uint256("0xeaf7a38d86a73574f1677837c883772fdc19d058d2352e432ccac8f108d2efcc") );
+        (  120, uint256("0xeaf7a38d86a73574f1677837c883772fdc19d058d2352e432ccac8f108d2efcc") )
+        (  28988, uint256("0xc316ad673460b6baa7dbd19ae3264856841b56f3b77fb44a122e249421583c01") )
+        ;
     static const CCheckpointData data = {
         &mapCheckpoints,
         1389093420, // * UNIX timestamp of last checkpoint block
